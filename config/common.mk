@@ -244,6 +244,10 @@ PRODUCT_PACKAGES += \
     DocumentsUIOverlay \
     NetworkStackOverlay
 
+# ThemePicker
+PRODUCT_PACKAGES += \
+    ThemePicker
+
 # Translations
 CUSTOM_LOCALES += \
     ast_ES \
